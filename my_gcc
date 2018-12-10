@@ -1,0 +1,4 @@
+#SHELL
+
+exec /usr/bin/g++ -D MY_GCC=1 "$@"
+

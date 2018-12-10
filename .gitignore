@@ -1,0 +1,7 @@
+test_*.cpp
+*.o
+*.so
+*.sw[po]
+*.log
+test.cpp
+
